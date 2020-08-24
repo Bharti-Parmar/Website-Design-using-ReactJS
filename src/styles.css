@@ -1,0 +1,53 @@
+.rounded-circle {
+  width: 60px !important;
+  height: 60px !important;
+  border: 1px solid grey;
+}
+.card-text {
+  font-size: 12px;
+}
+a {
+  color: #636363;
+}
+.card_img {
+  width: 316px;
+  border: 1px solid #e0dada;
+  height: 205px;
+}
+.course_type {
+  color: grey;
+  font-size: 12px;
+}
+.course_detail {
+  color: grey;
+  font-size: 12px;
+}
+hr {
+  margin-top: 0rem;
+}
+.grad1 {
+  background-color: #007bff;
+  background-image: linear-gradient(to right, #007bff, #9e4a98, #c318b7);
+}
+.foot {
+  font-size: 15px;
+  color: grey;
+}
+.foot_header {
+  color: blue;
+}
+input[type="text"] {
+  background-color: #e8e2e2;
+  border: 1px solid #e8e2e2;
+  margin-top: 10px;
+  margin-bottom: 25px;
+}
+input[type="email"] {
+  background-color: #e8e2e2;
+  border: 1px solid #e8e2e2;
+  margin-top: 10px;
+  margin-bottom: 25px;
+}
+.mr-sm-2 {
+  height: calc(0.95em + 0.75rem + 2px);
+}
